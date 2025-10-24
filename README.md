@@ -1,5 +1,6 @@
 ## Hi there 👋
 LA MADRE DEL TOPO
+<img width="216" height="233" alt="image" src="https://github.com/user-attachments/assets/a6df90f8-126b-4d78-9376-ff480a414e40" />
 
 <!--
 **miguel321654987/Miguel321654987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
