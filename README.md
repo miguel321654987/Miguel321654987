@@ -1,3 +1,10 @@
-Desarrollador Full-Stack con sólida base en desarrollo Back-End con Python y JavaScript, desarrollo Front-End con JavaScript,React, HTML y CSS, además del uso de Bootstrap, bases de datos SQL, APIs RESTful y autenticación con JWT (JSON Web Token).
+🚀 Desarrollador Full-Stack
+Con sólida base en Back-End (Python, JavaScript) y Front-End (React, HTML5, CSS3). Especialista en crear soluciones escalables con APIs RESTful, autenticación JWT y bases de datos SQL.
 
-Mi experiencia liderando equipos de hasta 45 personas me aporta capacidad para lograr soluciones eficientes.
+👥 Liderazgo y Gestión
+Mi experiencia liderando equipos de hasta 45 personas me permite aportar una visión estratégica y capacidad de resolución de problemas orientada a resultados eficientes.
+
+🛠️ Stack Tecnológico:
+Lenguajes: Python, JavaScript
+Front-end: React, Bootstrap
+Back-end: SQL, FLASK, JWT, REST APIs
