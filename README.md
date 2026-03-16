@@ -1,2 +1,2 @@
-![Mi Banner](Banner para GitHub.png)
+![Mi Banner](Banner.png)
 
